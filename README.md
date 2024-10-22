@@ -19,7 +19,7 @@ This approach will help us promote both safety and environmental stewardship in 
 
 2.EDA Analysis
 
-3. Conclusions and posible destinations
+3.Conclusions and posible destinations
 
 # Conclusions
 ![posible destinations](https://github.com/user-attachments/assets/843c3957-2777-4ec7-969f-feb21ee8fd57)
