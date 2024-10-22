@@ -3,8 +3,11 @@
 
 # Business Case
 · We are 4 young entrepreneurs willing to create a business from our passion: aquatics sports
+
 ·The idea is clear: offering experiences, primarily focusing on encounters with marine wildlife, especially sharks.
+
 ·Our services will include: international diving expeditions and raising awareness about the importance of preserving ocean habitats
+
 ·We are willing to create safe interactions for all: animals and people
 
 # Project Overview 
